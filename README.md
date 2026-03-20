@@ -81,6 +81,7 @@ python src/plot_results.py
 python src/confusion_matrix.py
 5. Run app
 streamlit run app.py
+
 🖥 Demo
 
 Example input:
