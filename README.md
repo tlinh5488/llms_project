@@ -42,11 +42,9 @@ Interactive Streamlit app
 Reproducible pipeline
 
 📊 Results
-Model	Accuracy	Precision	Recall	F1-score
-BERT	0.856	0.732	0.623	0.673
-RoBERTa	0.858	0.725	0.650	0.686
 
-👉 Conclusion: RoBERTa performs better overall, especially in recall and F1-score, making it more effective at detecting fake news.
+<img width="813" height="257" alt="image" src="https://github.com/user-attachments/assets/88314340-e6ab-4095-b652-012bde38d629" />
+
 
 📂 Dataset
 
