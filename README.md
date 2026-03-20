@@ -67,6 +67,7 @@ label → 0 (REAL), 1 (FAKE)
 
 ⚙️ Installation
 pip install torch transformers datasets scikit-learn pandas matplotlib streamlit accelerate
+
 🧠 Usage
 1. Build dataset
 python src/build_dataset.py
