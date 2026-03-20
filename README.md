@@ -1,4 +1,4 @@
-=======================📰 Fake News Detection with BERT vs RoBERTa========================
+================📰 Fake News Detection with BERT vs RoBERTa=================
 
 A Natural Language Processing project that compares BERT and RoBERTa for fake news classification using real-world datasets.
 
