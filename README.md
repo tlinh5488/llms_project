@@ -1,4 +1,4 @@
-📰 Fake News Detection with BERT vs RoBERTa
+=======================📰 Fake News Detection with BERT vs RoBERTa========================
 
 A Natural Language Processing project that compares BERT and RoBERTa for fake news classification using real-world datasets.
 
@@ -70,16 +70,27 @@ pip install torch transformers datasets scikit-learn pandas matplotlib streamlit
 
 🧠 Usage
 1. Build dataset
+
 python src/build_dataset.py
+
 2. Train models
+
 python src/train_bert.py
+
 python src/train_roberta.py
+
 3. Evaluate
+
 python src/evaluate.py
+
 4. Visualization
+
 python src/plot_results.py
+
 python src/confusion_matrix.py
+
 5. Run app
+
 streamlit run app.py
 
 🖥 Demo
