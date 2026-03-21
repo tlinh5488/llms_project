@@ -1,0 +1,68 @@
+text,label,category
+"Researchers at MIT develop new AI model for medical diagnosis",0,real
+"WHO releases updated guidelines for global health safety",0,real
+"NASA plans new Mars rover mission by 2032",0,real
+"Scientists discover new treatment for Alzheimer's disease",0,real
+"Global economy shows signs of recovery after inflation drop",0,real
+"EU introduces new AI regulations to protect user data",0,real
+"Renewable energy adoption increases worldwide",0,real
+"Study shows benefits of regular physical exercise",0,real
+"Education systems adopt digital transformation strategies",0,real
+"New vaccine demonstrates high effectiveness in trials",0,real
+
+"Drinking water makes you invisible",1,obvious_fake
+"Humans can fly naturally without technology",1,obvious_fake
+"Eating sand improves intelligence instantly",1,obvious_fake
+"Moon is made entirely of cheese scientists confirm",1,obvious_fake
+"Time travel machine available for public use",1,obvious_fake
+"People can survive without oxygen for hours",1,obvious_fake
+"New device reads minds through WiFi signals",1,obvious_fake
+"Magic pill grants immortality instantly",1,obvious_fake
+"Earth will disappear next week according to NASA",1,obvious_fake
+"Drinking gasoline boosts energy levels safely",1,obvious_fake
+
+"Government considers new regulations on social media platforms",1,subtle_fake
+"Leaked report suggests hidden surveillance expansion",1,subtle_fake
+"Experts claim breakthrough energy device suppressed by corporations",1,subtle_fake
+"Unofficial sources reveal secret agreement between global powers",1,subtle_fake
+"New study claims certain diets can cure all chronic diseases",1,subtle_fake
+"Researchers suggest unknown risks in widely used vaccines",1,subtle_fake
+"Rumors indicate major tech company manipulates search algorithms",1,subtle_fake
+"Insider reveals hidden agenda behind climate policies",1,subtle_fake
+"Claims emerge about secret experiments on human behavior",1,subtle_fake
+"Unverified report links common medicine to severe long-term effects",1,subtle_fake
+
+"New study suggests coffee may improve longevity",0,ambiguous
+"Experts debate impact of AI on employment",0,ambiguous
+"Researchers explore possible link between diet and mood",0,ambiguous
+"Scientists investigate effects of screen time on sleep",0,ambiguous
+"Study raises questions about long-term climate projections",0,ambiguous
+"Analysts warn of potential economic slowdown",0,ambiguous
+"Experts discuss risks of emerging technologies",0,ambiguous
+"Preliminary research shows mixed results in treatment outcomes",0,ambiguous
+"Debate continues over effectiveness of new education policies",0,ambiguous
+"Scientists explore new theories in quantum mechanics",0,ambiguous
+
+"Drinking only juice cures all diseases naturally",1,obvious_fake
+"Aliens living underground control governments",1,obvious_fake
+"Humans can become invisible through meditation",1,obvious_fake
+"Magic water increases IQ instantly",1,obvious_fake
+"Sun will not rise tomorrow scientists confirm",1,obvious_fake
+
+"Government secretly bans internet access next year",1,subtle_fake
+"Leaked data suggests hidden economic collapse plan",1,subtle_fake
+"Experts claim secret AI system controls global markets",1,subtle_fake
+"Rumors spread about undisclosed health risks in vaccines",1,subtle_fake
+"Unverified sources report global conspiracy in energy sector",1,subtle_fake
+
+"New infrastructure projects improve urban development",0,real
+"Healthcare systems integrate AI for diagnostics",0,real
+"Global trade increases after new agreements",0,real
+"Scientists publish findings on ocean pollution",0,real
+"Education reforms focus on digital skills",0,real
+
+"Study suggests excessive sugar intake impacts health",0,ambiguous
+"Experts analyze long-term economic trends",0,ambiguous
+"Researchers test new drug effectiveness",0,ambiguous
+"Scientists evaluate environmental changes",0,ambiguous
+"Debate continues on AI ethics",0,ambiguous
