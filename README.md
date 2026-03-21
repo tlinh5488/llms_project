@@ -11,8 +11,12 @@ A Natural Language Processing project that compares BERT and RoBERTa for fake ne
 
 BERT
 
+<img width="927" height="775" alt="image" src="https://github.com/user-attachments/assets/71c83610-c9ff-4899-ac5e-4890fabdef79" />
+
 
 RoBERTa
+
+<img width="925" height="769" alt="image" src="https://github.com/user-attachments/assets/2beb10f7-57a6-47be-ad64-f42bb51d6b52" />
 
 
 🚀 Features
@@ -45,6 +49,7 @@ Reproducible pipeline
 
 <img width="813" height="257" alt="image" src="https://github.com/user-attachments/assets/88314340-e6ab-4095-b652-012bde38d629" />
 
+<img width="1042" height="655" alt="image" src="https://github.com/user-attachments/assets/d0cde7b2-fa59-4ab9-8f63-66d912fe663c" />
 
 📂 Dataset
 
