@@ -2,10 +2,6 @@
 
 A Natural Language Processing project that compares BERT and RoBERTa for fake news classification using real-world datasets.
 
-📸 Results Visualization
-📊 Model Comparison
-
-🧠 Radar Chart
 
 🔍 Confusion Matrix
 
