@@ -21,25 +21,25 @@ Train and compare BERT vs RoBERTa
 
 Evaluate with standard metrics:
 
-Accuracy
+- Accuracy
 
-Precision
+- Precision
 
-Recall
+- Recall
 
-F1-score
+- F1-score
 
 Visualization:
 
-Bar chart
+- Bar chart
 
-Radar chart
+- Radar chart
 
-Confusion matrix
+- Confusion matrix
 
-Interactive Streamlit app
+- Interactive Streamlit app
 
-Reproducible pipeline
+- Reproducible pipeline
 
 📊 Results
 
@@ -56,9 +56,9 @@ FakeNewsNet
 
 Included subsets:
 
-GossipCop
+- GossipCop
 
-Politifact
+- Politifact
 
 📌 Data fields used:
 
@@ -72,27 +72,27 @@ pip install torch transformers datasets scikit-learn pandas matplotlib streamlit
 🧠 Usage
 1. Build dataset
 
-python src/build_dataset.py
+     python src/build_dataset.py
 
 2. Train models
 
-python src/train_bert.py
+     python src/train_bert.py
 
-python src/train_roberta.py
+     python src/train_roberta.py
 
 3. Evaluate
 
-python src/evaluate.py
+     python src/evaluate.py
 
 4. Visualization
 
-python src/plot_results.py
+     python src/plot_results.py
 
-python src/confusion_matrix.py
+     python src/confusion_matrix.py
 
 5. Run app
 
-streamlit run app.py
+     streamlit run src/app.py
 
 🖥 Demo
 
@@ -102,49 +102,52 @@ Example input:
 
 Output:
 
-BERT → FAKE
+ BERT → FAKE
 
 RoBERTa → FAKE (higher confidence)
+
+<img width="503" height="604" alt="image" src="https://github.com/user-attachments/assets/eb4c5c2b-2932-413a-bf1b-5e9eb39849c7" />
+
 
 📌 Key Insights
 
 BERT
 
-Higher precision
+- Higher precision
 
-Better at avoiding false positives
+- Better at avoiding false positives
 
 RoBERTa
 
-Higher recall
+- Higher recall
 
-Better at detecting fake news
+- Better at detecting fake news
 
 👉 Overall: RoBERTa generalizes better
 
 🔮 Future Work
 
-Use full dataset from FakeNewsNet
+- Use full dataset from FakeNewsNet
 
-Add LLM models (LLaMA, GPT)
+- Add LLM models (LLaMA, GPT)
 
-Multi-modal learning (text + image)
+- Multi-modal learning (text + image)
 
-Hyperparameter tuning
+- Hyperparameter tuning
 
-Data augmentation
+- Data augmentation
 
 🛠 Tech Stack
 
-PyTorch
++ PyTorch
 
-HuggingFace Transformers
++ HuggingFace Transformers
 
-Scikit-learn
++ Scikit-learn
 
-Streamlit
++ Streamlit
 
-Matplotlib
++ Matplotlib
 
 👨‍💻 Author
 
